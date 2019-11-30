@@ -1,0 +1,25 @@
+The functions it can perform
+void showMenu();
+void bookTickets();
+void readBookedTrainTicketDetails();
+void showSingleTicketDetails();
+void updateTicketDetails();
+void deleteTicketDetails();
+void writeFileNotFound();
+void readName();
+void readSurname();;
+void readAge();
+void readDepartureStation();
+void readArrivalStation();
+void readDate();
+void readService();
+void readPhoneNumber();
+void generatePNRNumber();
+void showUpdateDetails();
+int getNewPNRNumber();
+void readDetails();
+void writeDetails();
+void showRecordNotFoundMessage();
+void readPassengerStatus();
+void showCancelledTickets();
+void printFileEmpty();
