@@ -1,4 +1,4 @@
-The functions it can perform
+The functions it can perform are
 void showMenu();
 void bookTickets();
 void readBookedTrainTicketDetails();
